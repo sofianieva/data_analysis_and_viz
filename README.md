@@ -1,6 +1,8 @@
-**GRUPO 12**
+### Diploma in Data Science and Machine Learning
+## Data Analysis and Visualization Assignment (in spanish)
 
-En este repositorio cargamos las entregas de Prácticos para la matería **Análisis y Visualización de Datos de la Diplomatura en Ciencias de Datos 2021**
+
+En este repositorio se encuentran las entregas de Prácticos para la matería **Análisis y Visualización de Datos de la Diplomatura en Ciencias de Datos 2021**
 
 Los archivos están numerados según el orden que debe serguirse para su lectura y evaluación.
 
@@ -8,7 +10,7 @@ Para la **resolución del entregable 1 se incluyeron**:
 
 01 - Grupo12_Ejercicio1
 
-02- Grupo12_Ejercicio 2a y 2d
+02 - Grupo12_Ejercicio 2a y 2d
 
 03 - Grupo12_Ejercicio 2b y 2c
 
